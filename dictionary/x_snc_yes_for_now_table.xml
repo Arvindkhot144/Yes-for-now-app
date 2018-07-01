@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Yes for now Table" max_length="40" name="x_snc_yes_for_now_table" type="collection"/>
+    <element label="Yes for now Table" max_length="40" name="x_snc_yes_for_now_table" type="collection">
+        <element label="test fied" max_length="30" name="test_fied" type="string"/>
+    </element>
 </database>
