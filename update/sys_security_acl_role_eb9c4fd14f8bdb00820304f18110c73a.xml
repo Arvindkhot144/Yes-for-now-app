@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-01 13:39:46</sys_created_on>
+        <sys_id>eb9c4fd14f8bdb00820304f18110c73a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_yes_for_now_table.x_snc_yes_for_now.user</sys_name>
+        <sys_package display_value="Yes for now" source="x_snc_yes_for_now">d39c43954f4bdb00820304f18110c71d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Yes for now">d39c43954f4bdb00820304f18110c71d</sys_scope>
+        <sys_security_acl display_value="x_snc_yes_for_now_table">e79c4fd14f8bdb00820304f18110c738</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eb9c4fd14f8bdb00820304f18110c73a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-01 13:39:46</sys_updated_on>
+        <sys_user_role display_value="x_snc_yes_for_now.user" name="x_snc_yes_for_now.user">5f9c0fd14f8bdb00820304f18110c7e4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

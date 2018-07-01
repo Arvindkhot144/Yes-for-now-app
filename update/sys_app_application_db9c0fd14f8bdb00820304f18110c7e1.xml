@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Yes for now</name>
+        <order/>
+        <roles>x_snc_yes_for_now.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-01 13:39:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>db9c0fd14f8bdb00820304f18110c7e1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Yes for now</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Yes for now" source="x_snc_yes_for_now">d39c43954f4bdb00820304f18110c71d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Yes for now">d39c43954f4bdb00820304f18110c71d</sys_scope>
+        <sys_update_name>sys_app_application_db9c0fd14f8bdb00820304f18110c7e1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-01 13:39:45</sys_updated_on>
+        <title>Yes for now</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
