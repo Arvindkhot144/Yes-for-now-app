@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-01 13:39:46</sys_created_on>
-        <sys_id>379c4fd14f8bdb00820304f18110c757</sys_id>
+        <sys_id>9af0df554f8bdb00820304f18110c7fd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_yes_for_now_table</sys_name>
         <sys_package display_value="Yes for now" source="x_snc_yes_for_now">d39c43954f4bdb00820304f18110c71d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Yes for now">d39c43954f4bdb00820304f18110c71d</sys_scope>
-        <sys_update_name>ua_table_licensing_config_379c4fd14f8bdb00820304f18110c757</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_9af0df554f8bdb00820304f18110c7fd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-07-01 13:39:46</sys_updated_on>
     </ua_table_licensing_config>
